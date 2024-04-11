@@ -1,5 +1,7 @@
 import React from 'react'
 import SideNav from '../ui/dashboard/sidenav'
+import { Metadata } from 'next';
+ 
 
 const LayoutPage = ({children}:{children:React.ReactNode}) => {
   return (
